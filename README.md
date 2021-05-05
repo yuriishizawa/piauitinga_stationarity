@@ -19,6 +19,6 @@ O artigo completo pode ser lido nos anais do congresso do [XXIII Simpósio Brasi
 
 ![Mapa da bacia do rio Piauitinga](impressao.tiff)
 
-![Dados de Coeficiente de escoamento separados no change-point](/R/coeficiente_de_escoamento/dados.bmp)
+![Dados de Coeficiente de escoamento separados no change-point](/R/coeficiente_de_escoamento/dados.bmp "Dados de Coeficiente de escoamento separados no change-point")
 
-![Box-plot do Coeficiente de escoamento separados no change-point](/R/coeficiente_de_escoamento/boxplot-C.bmp)
+![Box-plot do Coeficiente de escoamento separados no change-point](/R/coeficiente_de_escoamento/boxplot-C.bmp "Box-plot do Coeficiente de escoamento separados no change-points)
