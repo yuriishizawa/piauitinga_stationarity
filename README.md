@@ -18,3 +18,7 @@ precipitação ao longo do período estudado.
 O artigo completo pode ser lido nos anais do congresso do [XXIII Simpósio Brasileiro de Recursos Hídricos](https://files.abrhidro.org.br/Eventos/Trabalhos/107/XXIII-SBRH1322-1-20190505-233112.pdf)
 
 ![Mapa da bacia do rio Piauitinga](impressao.tiff)
+
+![Dados de Coeficiente de escoamento separados no change-point](/R/coeficiente_de_escoamento/dados.bmp)
+
+![Box-plot do Coeficiente de escoamento separados no change-point](/R/coeficiente_de_escoamento/boxplot-C.bmp)
