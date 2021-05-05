@@ -1,0 +1,1 @@
+# piauitinga_stationarity
